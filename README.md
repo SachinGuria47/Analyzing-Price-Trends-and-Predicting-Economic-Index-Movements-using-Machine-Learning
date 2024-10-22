@@ -3,7 +3,7 @@
 ## Overview
 This project focuses on analyzing **price trends** in India’s **Consumer Price Index (CPI)** dataset and predicting the **General Index** using machine learning models. The analysis aims to identify the influence of various CPI components such as housing, food, and transportation on overall inflation and predict future movements of the General Index.
 
-## Dataset: All India Consumer Price Index (CPI) for Rural/Urban (up to February 2024)/Source: [Data.gov.in](https://www.data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-february-2024)
+## Dataset: All India Consumer Price Index (CPI) for Rural/Urban (up to February 2024)/ 👇Source: [Data.gov.in](https://www.data.gov.in/resource/all-india-consumer-price-index-ruralurban-upto-february-2024)
 
 ## Data Cleaning
 - **Data Type Conversion**: The 'Housing' column was converted to a numeric data type for consistency in analysis.
