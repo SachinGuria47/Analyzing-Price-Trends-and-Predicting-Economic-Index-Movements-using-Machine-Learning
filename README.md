@@ -14,7 +14,7 @@ This project focuses on analyzing **price trends** in India’s **Consumer Price
 - **Descriptive Statistics**: Summary statistics for all numerical columns were generated to understand the data distributions.
 - **Scatter Plots**: Scatter plots were created to visualize the relationships between various CPI components and the **General Index**, revealing significant patterns.
 - **Yearly Trends**: The **General Index** was analyzed from 2013 to 2024, showing a steady upward trend over time.
-- **Correlation Matrix**: A heatmap was created to show the correlation between CPI components. Features like **Housing**, **Fuel and Light**, and **Pan, Tobacco and Intoxicants** were strongly correlated with the General Index.
+- **Correlation Matrix**: A heatmap was created to show the correlation between CPI components. Features like **Housing**, **Fuel and Light**, and many more were strongly correlated with the General Index.
 - **Monthly Trends**: Monthly trends in the **General Index** were analyzed to capture seasonal patterns and variations.
 
 ## Models Used
@@ -28,5 +28,6 @@ This project focuses on analyzing **price trends** in India’s **Consumer Price
 
 ## Conclusion of Findings
 - **Linear Regression** outperformed the **Decision Tree Regressor** in predicting the **General Index**, achieving a very high **R-squared** value, indicating superior performance.
-- Important features impacting the General Index were identified, such as **Housing**, **Fuel and Light**, **Pan, Tobacco and Intoxicants**, and **Food and Beverages**.
+- Important features impacting the General Index were identified, such as **Housing**, **Fuel and Light**, **Clothing and footwear**,**Milk and products** and **Food and Beverages**.
+- **Scatter plots** showed how different CPI components relate to the General Index. The dots on the graph formed a clear **linear pattern**, meaning when one value goes up, the other tends to go up too. Most points lined up closely along a straight line, which suggests a strong connection between these components. This pattern helps us understand how changes in one area of CPI typically match changes in the overall index.
 - **Monthly and seasonal trends** were identified in the General Index, reflecting fluctuations in inflation throughout the year.
