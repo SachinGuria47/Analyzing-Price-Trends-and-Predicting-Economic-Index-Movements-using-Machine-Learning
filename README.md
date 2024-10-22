@@ -1,1 +1,1 @@
-# Analyzing Price Trends and Inflation Patterns in India's Consumer Price Index (Rural and Urban) up to February 2024
+# Analyzing Price Trends and Predicting Economic Index Movements using Machine Learning
